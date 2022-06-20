@@ -1,0 +1,7 @@
+pip install jqdatasdk
+pip install matplotlib
+pip install sklearn
+pip install pydot
+pip install graphviz
+pip install tensorboard
+pip install -U keras-tuner
